@@ -51,8 +51,8 @@ model.add(Dense(1,activation="linear")) # for regression problem the activation 
 
 ```
 
-## 📈 Loss Curve
-![Loss Curve](images/loss1.png)
+## 📈 Loss 
+![Loss Curve](loss1.png)
 
 
 ## 📉 Model Evaluation
